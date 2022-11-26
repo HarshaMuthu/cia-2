@@ -1,0 +1,27 @@
+body{
+  background-color: white;
+}
+.opt1-back
+{
+  width: 20px;
+  height: 20px;
+}
+.opt-1:hover {
+  background-color: rgb(7, 0, 4);
+  width: 100px;
+  border-radius: 5px;
+}
+.opt-2:hover {
+  background-color: rgb(186, 107, 152);
+  width: 100px;
+  border-radius: 5px;
+}
+.opt-3:hover {
+  background-color: rgb(34, 41, 228);
+  width: 100px;
+  border-radius: 5px;
+}
+.men
+{
+  cursor: pointer;
+}
